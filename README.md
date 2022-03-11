@@ -1,4 +1,4 @@
-### Oi! Eu sou Alessandra Costa 👋
+### Oi! Eu sou Alessandra Costa 👋 ![image](https://user-images.githubusercontent.com/97238444/157917728-979f1cbf-2871-46e9-992c-4bcdd4c7e653.png)
 
 🎓 Eu sou formada em Letras-Inglês com especialização em Literatura Inglesa. 
 
