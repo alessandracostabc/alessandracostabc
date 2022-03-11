@@ -1,14 +1,13 @@
 ### Oi! Eu sou Alessandra Costa 👋
 
+🎓 Eu sou formada em Letras-Inglês com especialização em Literatura Inglesa. 
 
-- 🔭 I’m currently working on ...
-- 🌱 Eu estou estudando Javascript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: ...
+📚 Estou sempre lendo vários livros ao mesmo tempo. 
+
+🔨 Atualemte, trabalho como Redatora web freelncer.
+
+💻 Porém, desde janeiro de 2022, decidi migrar para a área de tecnologia e tenho me dedicado a estudar programação desde então.
+
 -->
 
 <div align="center">
