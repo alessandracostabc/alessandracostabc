@@ -4,7 +4,7 @@
 
 📚 Estou sempre lendo vários livros ao mesmo tempo. 
 
-🔨 Atualemte, trabalho como Redatora web freelncer.
+🔨 Atualmente, trabalho como Redatora web freelncer.
 
 💻 Porém, desde janeiro de 2022, decidi migrar para a área de tecnologia e tenho me dedicado a estudar programação desde então.
 
